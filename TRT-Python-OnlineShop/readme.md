@@ -10,6 +10,8 @@ Attendees: [Mathew Perrow](https://github.com/mportland), [Annie Bowman](https:/
 Proposed Project: Online sales shopping cart using Python language
 
 ##### Brainstorming session:
+
+###### Short term goals:
 * Build Inventory define Dictionary Objects
 * Raw Input "Welcome Message to Cheap Tech Supplies"
 * Define Logic for days and differences (weekends, nights, mornings, high peak times)
@@ -27,7 +29,7 @@ Proposed Project: Online sales shopping cart using Python language
 * Inventory: laptops, phones, keyboards, mouse, cords(power, monitor, USB, HDMI), monitors, tablets, memory(size),
 * Harddrives(solid state, hard disk), warranty plan, routers, speakers, cleaning supplies, software(games, finance, etc)
  
-Long term:
+###### Long term goals:
 * Database interface
 * GUI
 * Logic to ask about selling warranty + calculating amount (% of sale price 5%)
