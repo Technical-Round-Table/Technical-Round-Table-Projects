@@ -18,6 +18,9 @@ cart = []
 # Rawinput
 
 
+#Find the price today
+
+
 
 
 
