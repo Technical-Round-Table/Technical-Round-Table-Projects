@@ -8,3 +8,6 @@ import time
 import datatime
 
 #This is the first comment
+
+
+today = datetime.datetime.dayofweek()
