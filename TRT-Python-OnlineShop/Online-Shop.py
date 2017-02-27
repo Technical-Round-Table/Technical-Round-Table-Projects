@@ -8,3 +8,14 @@ import time
 import datatime
 
 #This is the first comment
+
+online_shop = {'phone': 299.00,'monitor': 150.00,'Keyboard': 29.00,'HDMI': 49.00, }
+
+
+# Rawinput
+
+
+
+
+
+
