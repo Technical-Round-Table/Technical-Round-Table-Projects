@@ -20,6 +20,9 @@ cart.append()
 # Rawinput
 
 
+#Find the price today
+
+
 
 
 
