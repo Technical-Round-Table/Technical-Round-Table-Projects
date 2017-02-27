@@ -13,6 +13,7 @@ today = datetime.datetime.dayofweek()
 
 online_shop = {'phone': 299.00,'monitor': 150.00,'Keyboard': 29.00,'HDMI': 49.00, }
 
+cart = []
 
 # Rawinput
 
