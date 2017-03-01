@@ -1,6 +1,3 @@
 Georgia was here
-<<<<<<< HEAD
-but Michael wasn't
-=======
 ...and so Michael
->>>>>>> origin/master
+
