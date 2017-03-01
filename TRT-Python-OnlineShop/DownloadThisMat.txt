@@ -2,4 +2,10 @@ Hey Mat!
 
 Download this file!
 
-micheal
+<<<<<<< HEAD
+micheal is mispelled
+=======
+Micheal is the greatest ever. 
+
+Mat hopefully will see this and learn.
+>>>>>>> origin/master
