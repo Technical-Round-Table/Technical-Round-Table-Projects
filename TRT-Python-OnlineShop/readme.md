@@ -13,7 +13,7 @@ __Project Work:__
 * Build Welcome Message
 * Created Department Lists
 * Started development of function to choose between departments
-
+***
 #### Session One - Brainstorming Possible Projects
 
 __Date:__ Friday, February 24, 2017
