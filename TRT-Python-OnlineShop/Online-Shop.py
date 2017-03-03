@@ -28,16 +28,16 @@ def get_department():
 
             if department_choice == 1:
                 print(hardware_list)
-                # hardwareSelected = input("Welcome to Hardware, please choose an item")
+                # hardware_selected = input("Welcome to Hardware, please choose an item")
             elif department_choice == 2:
                 print(software_list)
-                # softwareSelected = input("Welcome to Software, please choose an item")
+                # software_selected = input("Welcome to Software, please choose an item")
             elif department_choice == 3:
                 print(accessories_list)
-                # softwareSelected = input("Welcome to Accessories, please choose an item")
+                # software_selected = input("Welcome to Accessories, please choose an item")
             elif department_choice == 4:
                 print(warranties_list)
-                # softwareSelected = input("Welcome to Warranties, please choose an item")
+                # software_selected = input("Welcome to Warranties, please choose an item")
             elif department_choice == 5:
                 break
 
