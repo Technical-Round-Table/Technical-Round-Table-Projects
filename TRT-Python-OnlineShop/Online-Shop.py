@@ -1,6 +1,6 @@
 # Online Shop - Changes price based on hour and days
 # Flash sales website
-# Python 2.7
+# Python 3.6
 # Version 0.1
 # Author: Tech Group (2/24/17) Annie Bowman, Matthew Perrow, Temple Naylor, Shabab Ali, and Michael Allen
 
@@ -13,7 +13,9 @@ today = datetime.datetime.dayofweek()
 
 # Raw Input "Welcome Message to Cheap Tech Supplies"
 
-name = raw_input("")
+name = input("Please enter your name: ")
+
+welcome = print("Welcome {} to Cheap Tech Supplies!".format(name))
 
 
 online_shop = {'phone': 299.00,'monitor': 150.00,'Keyboard': 29.00,'HDMI': 49.00, }
