@@ -1,6 +1,5 @@
 ### Technical Round Table - Python Project - Online Shop
 ***
-
 #### Session Two - Welcome Message, User Input and Function for selection of department.
 
 __Date:__ Friday, March 3, 2017
@@ -13,6 +12,7 @@ __Project Work:__
 * Build Welcome Message
 * Created Department Lists
 * Started development of function to choose between departments
+
 ***
 #### Session One - Brainstorming Possible Projects
 
