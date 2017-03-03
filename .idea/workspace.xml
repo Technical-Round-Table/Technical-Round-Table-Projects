@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47d985be-48bd-4032-b453-932f4736f660" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TRT-Python-OnlineShop/Online-Shop.py" afterPath="$PROJECT_DIR$/TRT-Python-OnlineShop/Online-Shop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Technical-Round-Table-Projects.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,14 +23,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Online-Shop.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Online-Shop.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TRT-Python-OnlineShop/Online-Shop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
+            <state relative-caret-position="1457">
               <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1674">
+              <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -43,6 +54,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/TRT-Python-OnlineShop/Online-Shop.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -334,11 +346,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/TRT-Python-OnlineShop/Online-Shop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
+        <state relative-caret-position="1457">
           <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="93" column="12" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
