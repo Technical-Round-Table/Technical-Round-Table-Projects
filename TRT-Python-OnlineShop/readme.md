@@ -3,7 +3,7 @@
 
 #### Session Two - Welcome Message, User Input and Function for selection of department.
 
-_Date:_ Friday, March 3, 2017
+*Date:* Friday, March 3, 2017
 
 Attendees: [Mathew Perrow](https://github.com/mportland), [Annie Bowman](https://github.com/abvolatile), [Shabab Ali](https://github.com/shababali), [Temple Naylor](https://github.com/templenaylor), [Garrett Guevara](https://github.com/gcguevara) and [Michael Allen](https://github.com/mrmichaelgallen) (Lead) 
 
