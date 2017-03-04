@@ -1,13 +1,27 @@
 ### Technical Round Table - Python Project - Online Shop
 ***
+#### Session Two - Welcome Message, User Input and Function for selection of department.
 
+__Date:__ Friday, March 3, 2017
+
+__Attendees:__ [Mathew Perrow](https://github.com/mportland), [Annie Bowman](https://github.com/abvolatile), [Shabab Ali](https://github.com/shababali), [Temple Naylor](https://github.com/templenaylor), [Garrett Guevara](https://github.com/gcguevara) and [Michael Allen](https://github.com/mrmichaelgallen) (Lead) 
+
+Technical Questions for 30 Minutes and Project Development for an hour
+
+__Project Work:__
+* Build Welcome Message
+* Created Department Lists
+* Started development of function to choose between departments
+
+***
 #### Session One - Brainstorming Possible Projects
 
-Date: Friday, February 24, 2017
+__Date:__ Friday, February 24, 2017
 
-Attendees: [Mathew Perrow](https://github.com/mportland), [Annie Bowman](https://github.com/abvolatile), [Shabab Ali](https://github.com/shababali), [Temple Naylor](https://github.com/templenaylor) and [Michael Allen](https://github.com/mrmichaelgallen) (Lead) 
+__Attendees:__ [Mathew Perrow](https://github.com/mportland), [Annie Bowman](https://github.com/abvolatile), [Shabab Ali](https://github.com/shababali), [Temple Naylor](https://github.com/templenaylor) and [Michael Allen](https://github.com/mrmichaelgallen) (Lead) 
 
-Proposed Project: Online sales shopping cart using Python language
+__Proposed Project:__ 
+* Online sales shopping cart using Python language
 
 ##### Brainstorming session:
 
